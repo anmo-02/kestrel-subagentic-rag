@@ -1,0 +1,99 @@
+Kestrel Systems Pvt. Ltd. HR Policy Handbook v4.1
+KSPL-HR-POL-004 | Effective 1 April 2026 | Internal Page 1
+HR Policy Handbook
+Kestrel Systems Pvt. Ltd. | Document ID: KSPL-HR-POL-004 | Version 4.1 | Effective: 1 April 2026
+| Owner: HR Policy Team
+This handbook applies to all permanent employees. Financial benefits referenced here are defined in the Travel, Expense &
+Relocation Policy (KSPL-FIN-POL-003). IT equipment and access rules are defined in the IT Services & Information Security Policy
+(KSPL-IT-POL-002).
+1. Purpose and Scope
+1.1 This handbook applies to all permanent employees of Kestrel Systems Pvt. Ltd. working from the Pune
+(headquarters), Mumbai and Bengaluru offices.
+1.2 Contract staff and interns are covered by the terms of their individual contracts and are not covered by this
+handbook unless stated.
+1.3 Where this handbook refers to another company policy for a topic, the referenced policy governs that topic.
+1.4 Employee grades: G1 to G3 are Associate levels, G4 to G5 are Manager levels, and G6 to G7 are Senior
+Leadership levels.
+2. Working Hours and Hybrid Work
+2.1 The standard work week is Monday to Friday, 40 hours. Core hours, when every employee must be
+available, are 11:00 to 16:00 IST.
+2.2 Hybrid work: employees must work from their assigned office for a minimum of 3 days per week.
+2.3 Working from another city in India: employees may work from another city in India for up to 20 working days
+per calendar year with reporting manager approval, requested on the HR portal at least 5 working days in
+advance. More than 20 working days in a calendar year requires additional approval from the HR Business
+Partner.
+2.4 Working from outside India is not part of the hybrid allowance. It requires written approval from both the HR
+Business Partner and IT Security (see IT Policy Section 4.4) and is limited to 15 working days per calendar year.
+2.5 Employees working away from the office must connect to company systems only through the company VPN,
+as described in IT Policy Section 4.
+3. Leave
+3.1 Leave entitlements per calendar year:
+Leave type Entitlement Key rules
+Casual leave 8 days Cannot be carried forward. Maximum 3 consecutive days.
+Sick leave 10 days Medical certificate required for more than 2 consecutive days.
+Cannot be carried forward.
+Earned leave (EL) 18 days (accrues 1.5 days
+per month)
+Unused EL can be carried forward up to a maximum balance of 30
+days. At exit, up to 30 days of EL are encashed.
+Maternity leave 26 weeks paid For the first two children; 12 weeks for subsequent children.
+Paternity leave 10 working days To be taken within 6 months of the child's birth or adoption.
+Bereavement leave 5 working days For the death of an immediate family member.
+Relocation leave 3 working days Only for approved internal transfers (Section 4).
+3.2 Probation: during the first 6 months, earned leave accrues but can be taken only after confirmation. Casual
+and sick leave are available from the joining date on a pro-rata basis.
+3.3 Leave during notice period: earned leave cannot be taken during the notice period except with written
+approval of the HR Head. Unused earned leave is encashed as per Section 3.1.
+3.4 Unpaid leave: up to 30 working days per calendar year may be approved by the HR Business Partner, only
+after all earned leave has been used.Kestrel Systems Pvt. Ltd. HR Policy Handbook v4.1
+KSPL-HR-POL-004 | Effective 1 April 2026 | Internal Page 2
+3.5 All leave is applied for on the HR portal. Planned leave of more than 3 days must be applied for at least 2
+weeks in advance.
+4. Internal Transfer and Relocation
+4.1 Eligibility: an employee must have completed at least 12 months of continuous service on the transfer date. A
+transfer may be initiated by the company, or requested by the employee and approved by both the current and
+the receiving department heads.
+4.2 Process: the employee submits Form HR-12 (Relocation Request) on the HR portal at least 30 days before
+the planned move date. HR confirms the transfer within 7 working days.
+4.3 Benefits: the employee receives 3 paid working days of relocation leave. Financial benefits, including the
+relocation allowance, travel to the new location and household goods shifting, are defined in the Travel, Expense
+& Relocation Policy, Section 6.
+4.4 Temporary accommodation: on arrival at the new location, the employee may stay in a company-arranged
+guest house or hotel for up to 15 nights.
+4.5 IT equipment during relocation is handled as per IT Policy Section 6.
+4.6 An employee who resigns within 12 months of relocating may have to repay part of the relocation allowance,
+as per the Travel, Expense & Relocation Policy, Section 6.6.
+5. Onboarding
+5.1 New joiners must submit the following on or before the first working day:
+• PAN card and Aadhaar card
+• Cancelled cheque or bank statement showing account details
+• Highest education certificates
+• Relieving letter from the previous employer
+• Two passport-size photographs
+5.2 HR raises the account and laptop request to IT at least 5 working days before the joining date (see IT Policy
+Section 3.1).
+5.3 Induction runs on the first two working days. Every new joiner must acknowledge this handbook on the HR
+portal within 7 days of joining.
+5.4 Probation lasts 6 months. HR issues a confirmation letter on successful completion.
+6. Resignation and Exit
+6.1 Notice periods after confirmation:
+Grade Notice period
+G1 to G3 30 days
+G4 to G5 60 days
+G6 to G7 90 days
+Any grade during probation 15 days
+6.2 Notice buyout: with manager approval, an employee may buy out the unserved notice period by paying basic
+salary for the unserved days. The company may also waive notice.
+6.3 Exit clearance: the employee returns the laptop, access card and all other company assets on the last
+working day (see IT Policy Section 8).
+6.4 Full and final settlement is processed as per the Travel, Expense & Relocation Policy, Section 8.
+6.5 The experience letter is issued within 7 days of the full and final settlement.
+7. Conduct, Grievances and Contacts
+7.1 All employees must follow the Code of Conduct, acknowledged at joining.Kestrel Systems Pvt. Ltd. HR Policy Handbook v4.1
+KSPL-HR-POL-004 | Effective 1 April 2026 | Internal Page 3
+7.2 Grievances can be raised with the reporting manager or by email to hr-help@kestrel.example. HR responds
+within 5 working days.
+7.3 Complaints under the Prevention of Sexual Harassment (POSH) policy go to the Internal Committee at
+ic@kestrel.example.
+7.4 HR portal: hr.kestrel.example. Topics not covered in this handbook should be raised with the HR Business
+Partner.

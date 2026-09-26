@@ -1,0 +1,74 @@
+Kestrel Systems Pvt. Ltd. IT Services & Information Security Policy v2.3
+KSPL-IT-POL-002 | Effective 1 January 2026 | Internal Page 1
+IT Services & Information Security Policy
+Kestrel Systems Pvt. Ltd. | Document ID: KSPL-IT-POL-002 | Version 2.3 | Effective: 1 January
+2026 | Owner: IT Services & Security
+This policy covers company devices, accounts, remote access, the IT service desk, equipment during internal transfers, lost devices,
+exit, and the use of data and AI tools.
+1. Purpose and Scope
+1.1 This policy applies to all employees, contract staff and interns, and to every company device, account and
+system.
+1.2 Breaking this policy may lead to loss of access and disciplinary action.
+2. Devices
+2.1 Every employee receives a standard company laptop on the first working day, provided HR has submitted the
+request as per Section 3.1.
+2.2 Laptops are refreshed every 4 years, or earlier if found faulty by the service desk.
+2.3 Personal devices may access company email and chat only after enrolling in the Mobile Device Management
+(MDM) app. No other company system may be accessed from a personal device.
+2.4 Peripherals such as monitors, docking stations and keyboards are office assets assigned to a desk location.
+3. Accounts and Access
+3.1 New joiner accounts (email, HR portal and VPN) are created before the joining date if HR submits the request
+at least 5 working days before joining. Otherwise, accounts are created within 2 working days after joining.
+3.2 Multi-factor authentication (MFA) is mandatory for every account.
+3.3 Passwords must have at least 14 characters, must be changed every 180 days, and must not reuse any of
+the last 5 passwords.
+3.4 Managers review their team's system access every quarter.
+4. Remote Access and VPN
+4.1 The company VPN, Kestrel Secure Connect, is required to reach any internal system from outside the office
+network.
+4.2 VPN access is allowed from any location in India.
+4.3 Public Wi-Fi may be used only with the VPN switched on.
+4.4 Access from outside India requires IT Security approval through a service desk ticket in the category
+"Overseas Access", raised at least 10 working days before travel. Approval is valid only for the dates requested.
+Access from countries on the sanctioned list maintained by IT Security is not permitted.
+5. Service Desk and Troubleshooting
+5.1 Raise tickets at it.kestrel.example or call extension 4000.
+5.2 Ticket priorities and response times:
+Priority Meaning First response time
+P1 Security incident, lost device, or office-wide outage 30 minutes
+P2 A single user cannot work at all 4 business hours
+P3 Service is degraded but the user can still work 1 business day
+P4 Service request (new software, access, equipment) 3 business days
+5.3 If the VPN keeps disconnecting, complete these self-help steps in order:Kestrel Systems Pvt. Ltd. IT Services & Information Security Policy v2.3
+KSPL-IT-POL-002 | Effective 1 January 2026 | Internal Page 2
+• Step 1: Update Kestrel Secure Connect to the latest version from Software Centre.
+• Step 2: Switch to a different network, or restart your home router.
+• Step 3: Reset the VPN profile from Settings > Reset profile, then sign in again.
+• If the problem continues, raise a P3 ticket and attach the log file (Help > Export logs).
+5.4 For a slow laptop, restart the device and install pending updates. If it is still slow, raise a P3 ticket.
+6. Equipment During Internal Transfer
+6.1 The company laptop moves with the employee. The employee is responsible for carrying it, in cabin baggage
+when flying.
+6.2 Peripherals are not moved between offices. Request peripherals at the new office by raising a ticket in the
+category "Desk Setup" at least 10 working days before the first day at the new location.
+6.3 Facilities issues the access card for the new office on the first day there. The old access card must be
+surrendered at the same time.
+7. Lost or Stolen Devices
+7.1 Report a lost or stolen device to IT Security within 24 hours by raising a P1 ticket, and file a police complaint.
+Attach a copy of the complaint to the ticket.
+7.2 IT Security remotely wipes the lost device.
+7.3 If the loss is caused by negligence, such as leaving the device unattended in a public place, the employee
+pays 25% of the device's current book value.
+8. Exit
+8.1 On the last working day, the employee returns the laptop, access card and any peripherals issued for home
+use.
+8.2 All accounts are disabled at 18:00 IST on the last working day.
+8.3 IT sends an asset clearance certificate to Finance within 2 working days of the assets being returned.
+Unreturned assets delay the full and final settlement.
+9. Data Protection and AI Tools
+9.1 Data is classified as Public, Internal, Confidential or Restricted. Customer data is Confidential at minimum.
+9.2 Confidential and Restricted data must not be stored on personal devices or personal cloud storage.
+9.3 Only approved AI tools, Kestrel Copilot and the company ChatGPT Enterprise workspace, may be used with
+Internal or Confidential data. Confidential and Restricted data must never be entered into public or free AI tools.
+Restricted data must not be entered into any AI tool without approval from the Data Protection Officer.
+9.4 Report any suspected data leak immediately as a P1 ticket.

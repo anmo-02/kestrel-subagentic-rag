@@ -1,0 +1,33 @@
+# Pinned to versions actually tested together while building this project.
+# LangChain/LangGraph's APIs move fast -- if you bump versions, re-run the
+# test suite (`pytest`) before trusting the app.
+
+# Core LLM orchestration
+langchain==0.3.7
+langchain-openai==0.2.9
+langchain-community==0.3.7
+langchain-core==0.3.63
+langchain-text-splitters==0.3.8
+langgraph==0.2.53
+
+# Vector store
+langchain-chroma==0.1.4
+chromadb==0.5.20
+
+# PDF parsing
+pypdf==5.1.0
+
+# Schemas / structured output
+pydantic==2.9.2
+
+# Config
+python-dotenv==1.0.1
+
+# Token counting (pulled in by langchain-openai, pinned explicitly for reproducibility)
+tiktoken==0.8.0
+
+# UI
+streamlit==1.39.0
+
+# Tests
+pytest==9.1.1
